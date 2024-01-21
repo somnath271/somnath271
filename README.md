@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Somnath Bhattarai! 👋
 
-<!--
-**somnath271/somnath271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science and Engineering student passionate about MERN stack development.
 
-Here are some ideas to get you started:
+## 💬 Ask me about
+- Web development basics
+- HTML, CSS styling, and responsive design
+- JavaScript programming
+- Learning resources for beginners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML, CSS, JavaScript
+- C, C++ basic
+- Git, GitHub
+
+## Learning Goals
+- Expanding my knowledge in JavaScript frameworks, starting with React.js.
+- Diving into backend development with Node.js and Express.js.
+- Building more dynamic and interactive web applications.
+
+## Education
+- B.Tech in Computer Science and Engineering, School of Engineering and Technology, Jain Deemed to be University, 2025
+
+## Award
+- Study in India Scholarship 2021 - Awarded by Government of India
+
+## Contact
+- Email: sumanbhattarai200@gmail.com
+- LinkedIn: https://www.linkedin.com/in/somnath-bhattarai/
+
+## Open for Collaboration
+- I am open to collaboration and exploring new projects.
+
+Happy coding!
