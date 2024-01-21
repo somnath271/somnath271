@@ -29,6 +29,6 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 - LinkedIn: https://www.linkedin.com/in/somnath-bhattarai/
 
 ## Open for Collaboration
-- I am open to collaboration and exploring new projects.
+- I am open to collaborating on beginner-friendly web development projects.
 
 Happy coding!
