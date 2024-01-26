@@ -31,4 +31,15 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 ## Open for Collaboration
 - I am open to collaborating on beginner-friendly web development projects.
 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/somnath271">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnath271&title_color=ffffff&text_color=4F8CC9&icon_color=6DCEA1&bg_color=0D1117" />
+</a>
+<a href="https://github.com/somnath271">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somnath271&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Somnath's GitHub Stats" />
+</a>
+
+
+![Somnath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath271)
+
 Happy coding!
