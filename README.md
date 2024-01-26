@@ -40,6 +40,4 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 </a>
 
 
-![Somnath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath271)
-
 Happy coding!
