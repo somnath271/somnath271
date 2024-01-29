@@ -39,5 +39,8 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=somnath271&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Somnath's GitHub Stats" />
 </a>
 
+## GitHub Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=somnath271"/></a>
+
 
 Happy coding!
