@@ -40,7 +40,9 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 </a>
 
 ## GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=somnath271"/></a>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=somnath271&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=somnath271&theme=default" />
+</picture>
 
 Happy coding!
