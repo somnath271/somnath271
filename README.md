@@ -9,14 +9,10 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 - Learning resources for beginners
 
 ## Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, ReactJS, NodeJs
 - C, C++ basic
+- Canva
 - Git, GitHub
-
-## Learning Goals
-- Expanding my knowledge in JavaScript frameworks, starting with React.js.
-- Diving into backend development with Node.js and Express.js.
-- Building more dynamic and interactive web applications.
 
 ## Education
 - B.Tech in Computer Science and Engineering, School of Engineering and Technology, Jain Deemed to be University, 2025
