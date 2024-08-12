@@ -3,9 +3,10 @@
 I am a B.Tech Computer Science and Engineering student passionate about MERN stack development.
 
 ## 💬 Ask me about
-- Web development basics
+- Web development
 - HTML, CSS styling, and responsive design
 - JavaScript programming
+- ReactJs learning path
 - Learning resources for beginners
 
 ## Skills
