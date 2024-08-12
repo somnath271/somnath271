@@ -21,6 +21,9 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 ## Award
 - Study in India Scholarship 2021 - Awarded by Government of India
 
+## Portfolio
+- https://www.somnathbhattarai.com.np
+
 ## Contact
 - Email: sumanbhattarai200@gmail.com
 - LinkedIn: https://www.linkedin.com/in/somnath-bhattarai/
