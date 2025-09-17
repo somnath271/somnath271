@@ -1,6 +1,6 @@
 # Hi there, I'm Somnath Bhattarai! 👋
 
-I am a B.Tech Computer Science and Engineering student passionate about MERN stack development.
+Web Developer with experience in building responsive applications using React.js, Next.js, and Tailwind CSS. Proficient in JavaScript, Node.js, and Express.js, with hands-on experience in front-end development, UI/UX optimization, and cross-browser compatibility. Experienced in Agile methodologies and version control using Git.
 
 ## 💬 Ask me about
 - Web development
@@ -10,7 +10,7 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 - Learning resources for beginners
 
 ## Skills
-- HTML, CSS, JavaScript, ReactJS, NodeJs
+- HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, ReactJS, NodeJs, NextJS
 - C, C++ basic
 - Canva
 - Git, GitHub
@@ -18,7 +18,7 @@ I am a B.Tech Computer Science and Engineering student passionate about MERN sta
 ## Education
 - B.Tech in Computer Science and Engineering, School of Engineering and Technology, Jain Deemed to be University, 2025
 
-## Award
+## Achievements
 - Study in India Scholarship 2021 - Awarded by Government of India
 
 ## Portfolio
