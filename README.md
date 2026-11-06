@@ -17,6 +17,7 @@ Web Developer with experience in building responsive applications using React.js
 
 ## Education
 - B.Tech in Computer Science and Engineering, School of Engineering and Technology, Jain Deemed to be University, 2025
+- Master of Information Technology, Eastern Institute of Technology, Auckland, New Zealand, Oct 2026 - Present
 
 ## Achievements
 - Study in India Scholarship 2021 - Awarded by Government of India
